@@ -1,7 +1,7 @@
 # Pattern-Recognition
 Projects from Pattern Recognition Course - Persian Gulf University
 
-Introduction
+## Introduction
 Welcome to the Pattern Recognition project repository! This project focuses on implementing various pattern recognition methods on the Indian Pine Hyperspectral Imaging (HSI) dataset. The implemented methods include Linear Discriminant Analysis (LDA), Maximum A Posteriori (MAP), Principal Component Analysis (PCA), Mahalanobis Distance, Minimum Distance, Cointoss Markov Modeling, and Viterbi Algorithm.
 
 Dataset
